@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891391184774",
+    "project_id": "spacefinder-9b7cc",
+    "storage_bucket": "spacefinder-9b7cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891391184774:android:dfb1b0246e128162676607",
+        "android_client_info": {
+          "package_name": "com.example.spacefinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACwNVBjVN579_Z-_gqApMqLi_SddT-P_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
